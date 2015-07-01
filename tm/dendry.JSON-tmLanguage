@@ -1,0 +1,14 @@
+{
+    "patterns": [
+        {
+            "name": "variable.parameter", 
+            "match": "^[^A-Za-z0-9_- ]+:"
+        }
+    ], 
+    "uuid": "fa52d40d-51b7-4dc8-b749-8d429031e5b8", 
+    "fileTypes": [
+        "dry"
+    ], 
+    "name": "Dendry", 
+    "scopeName": "source.dendry"
+}

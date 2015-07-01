@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fileTypes</key>
+	<array>
+		<string>dry</string>
+	</array>
+	<key>name</key>
+	<string>Dendry</string>
+	<key>patterns</key>
+	<array>
+		<dict>
+			<key>match</key>
+			<string>^[^A-Za-z0-9_- ]+:</string>
+			<key>name</key>
+			<string>variable.parameter</string>
+		</dict>
+	</array>
+	<key>scopeName</key>
+	<string>source.dendry</string>
+	<key>uuid</key>
+	<string>fa52d40d-51b7-4dc8-b749-8d429031e5b8</string>
+</dict>
+</plist>
